@@ -1,4 +1,4 @@
-# 🧊 Exercício: Monitoramento de Neutrinos no Observatório IceCube
+# 🧊 Simulado: <br>Monitoramento de Neutrinos no Observatório IceCube
 
 ## 📖 Contexto
 
